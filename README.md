@@ -33,7 +33,14 @@
 - 薄い部分があるので、レビュー時にリスクを許容するか確認されます。ご自身で決めて返信してください。<br>英語でメールが来ます。
 - 猫耳HATはCoreS3のDINBASEでも使えるモデルですが、差すだけなのでなにか工夫が必要かもしれません。
 
+## stackchan_side_adapter_for_takao_ver
+
+ｽﾀｯｸﾁｬﾝ タカオ版の左側の穴に取り付ける用のアダプターです。Groveケーブルを通している場合は使えません。
+
+- side_base.stl<br>取り付ける土台です。改造用
+- side_9hole.stl<br>
+
 
 # LICENSE
 
-
+[CC-BY-SA-4.0 license](github.com/mongonta0716/3DPrinter_Models/blob/master/LICENCE)
