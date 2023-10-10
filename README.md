@@ -53,4 +53,4 @@ Feetech SCS0009シリアルサーボ専用のモデルです。
 
 # LICENSE
 
-[CC-BY-SA-4.0 license](github.com/mongonta0716/3DPrinter_Models/blob/master/LICENCE)
+[Apache 2.0](github.com/mongonta0716/3DPrinter_Models/blob/master/LICENSE)
