@@ -4,9 +4,10 @@
 ちょっとした3DModelを公開しています。
 
 
-## stackchan_metal_case_takao_version
+## stackchan_sg90_metal_case_takao_version
 
 ｽﾀｯｸﾁｬﾝ タカオ版をJLCPCBに依頼した時のファイルです。PLA用のモデルよりも穴径が大きくタップネジではなく、ボルト＋ナットで固定をするように設計しています。
+**SG90用です。**
 
 下記の点に注意してください。
 
@@ -22,7 +23,9 @@
 発注するときは自己責任でお願いします。
 
 
-## stackchan_resin_case_takao_version
+## stackchan_sg90_case_takao_version
+
+**SG90用です。**
 
 レジンやPLAなど用のモデルです。
 
@@ -35,7 +38,7 @@
 
 ## strackchan_scs0009_case_takao_version
 
-Feetech SCS0009シリアルサーボ専用のモデルです。
+**Feetech SCS0009シリアルサーボ専用のモデルです。**
 
 - DesignSparkMechanical 6.0.1で編集しました。
 - STLファイルとRSDOCXファイルです。
