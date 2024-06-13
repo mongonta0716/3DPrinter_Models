@@ -56,7 +56,16 @@
 ## stackchan-mini-for-vameter
 
 [ｽﾀｯｸﾁｬﾝmini](https://x.com/mongonta555/status/1800142036345188758)用のSTLファイルです。
+- M5StackのVAMeterの上だけを利用します。
+- ブラケットは2つ出力してサーボとStack-chan_Takao_Baseを固定します。
 猫耳と足はsg90用のものを66.6%で縮小してください。
+
+### 必要な部品
+- サーボ x 2 [Feetech FS0403](https://akizukidenshi.com/catalog/g/g114805/)
+- M1.4ネジ(5～6mm) x 8
+- [Stack-chan_Takao_Base SG90用](https://www.switch-science.com/products/8905)
+- M2 x 4mm　x 1 pcs
+- Grove-2.54mm-4P変換ケーブル(5～10cm)（20cmしかないので自作or改造の必要あり）[Grove - デュポン 変換ケーブル 20 cm（各5本セット）](https://www.switch-science.com/products/8305)
 
 
 # LICENSE
