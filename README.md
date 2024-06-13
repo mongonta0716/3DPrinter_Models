@@ -53,6 +53,11 @@
 - side_base.stl<br>取り付ける土台です。改造用
 - side_9hole.stl<br>
 
+## stackchan-mini-for-vameter
+
+[ｽﾀｯｸﾁｬﾝmini](https://x.com/mongonta555/status/1800142036345188758)用のSTLファイルです。
+猫耳と足はsg90用のものを66.6%で縮小してください。
+
 
 # LICENSE
 
