@@ -67,6 +67,12 @@
 - M2 x 4mm　x 1 pcs
 - Grove-2.54mm-4P変換ケーブル(5～10cm)（20cmしかないので自作or改造の必要あり）[Grove - デュポン 変換ケーブル 20 cm（各5本セット）](https://www.switch-science.com/products/8305)
 
+## stackchan_hat_ear_for_NekomimiLED
+
+わししさんの[NekomimiLED](https://washishi.booth.pm/items/5686894)を分割せずにそのまま取り付けられる猫耳HATです。かなり適当にモデリングしたので参考程度に、、、
+- Port.Cは使えなくなるので、サーボはPort.Aに接続してください。
+- 前面は塞いでしまっているので透明フィラメントを使ってください。
+
 
 # LICENSE
 
