@@ -82,6 +82,12 @@
 - 耳の部分を少し薄くしているので強度が落ちています。
 - サポートはビルドプレートのみの方がいいと思います。
 
+### head_adapter_cat_v2.10_DINBASE.stl
+不透明のフィラメント用の猫耳HATです。DINBASE用のため少し左に寄っています。
+- 耳の部分を少し薄くしているので強度が落ちています。
+- サポートはビルドプレートのみの方がいいと思います。
+
+
 # LICENSE
 
 [Apache 2.0](https://github.com/mongonta0716/3DPrinter_Models/blob/master/LICENSE)
