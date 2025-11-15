@@ -4,6 +4,15 @@
 ちょっとした3DModelを公開しています。
 
 
+## AtomNyan
+
+[@aokko2000(X account)](https://x.com/aokko2000)さんのｱﾄﾑﾆｬﾝをベースにDesignSparkMechanicalでアレンジした、タカオバージョンを公開しています。
+
+- Short Ver<br>AtomS3(R)+AtomicBatteryBase+NanoMicの利用を想定。バッテリーレスであれば、AtomS3(R)+AtomicEchoBaseの組み合わせや、AtomS3(R)+PDMUnit+ChainBridgeの組み合わせも利用可能です。
+
+- Long Ver<br>AtomS3(R)+AtomicEchoBase+AtomicBatteryBaseの組み合わせを想定しています。AtomicBatteryBaseの5pin側の端子をニッパーでカットする必要があります。
+
+
 ## stackchan_sg90_metal_case_takao_version
 
 ｽﾀｯｸﾁｬﾝ タカオ版をJLCPCBに依頼した時のファイルです。PLA用のモデルよりも穴径が大きくタップネジではなく、ボルト＋ナットで固定をするように設計しています。
