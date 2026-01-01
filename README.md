@@ -12,6 +12,21 @@
 
 - Long Ver<br>AtomS3(R)+AtomicEchoBase+AtomicBatteryBaseの組み合わせを想定しています。AtomicBatteryBaseの5pin側の端子をニッパーでカットする必要があります。
 
+## AtomNyan_v2
+
+[@aokko2000(X account)](https://x.com/aokko2000)さんのｱﾄﾑﾆｬﾝをベースにDesignSparkMechanicalでアレンジした、タカオバージョンを公開しています。
+
+V1からの変更点は、washishiさんのAtom用のNecomimiLEDに対応してフェイスカバーを追加し足を取り外し交換可能にしました。今回のバージョンからShortVer.とLongVer.は無くなり、AtomS3との任意の組み合わせに対応できるようになりました。（ただし、お尻の中に空間ができるのでご自分で補完してください。）
+
+### ファイル説明
+- STL
+  - AtomNyan_Takao_V2_face.stl<br>AtomS3に被せる顔です。髭のオブジェクトが
+  - AtomNyan_Takao_V2_body.stl<br>身体です。髭のオブジェクトが別で着色できます。
+  - AtomNyan_Takao_V2 foot_long.stl<br>PCのモニターにひっかけるための後ろ足です。
+  - AtomNyan_Takao_V2_foot_triangle.stl<br>床置き用の足です。4つ印刷して使用します。肉球のオブジェクトが別で着色できます。
+- rzdocx
+  - AtomNyan_Takao_V2_face_body.rsdocx<br>コンポーネントが含まれています。face、body、foot_longの設計ファイルです。
+  - AtomNyan_Takao_V2foot.rsdocx<br>foot_triangleのみです。足部分と肉球部分がコンポーネントで分かれています。
 
 ## stackchan_sg90_metal_case_takao_version
 
