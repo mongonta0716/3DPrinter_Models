@@ -20,7 +20,7 @@ V1からの変更点は、washishiさんのAtom用のNecomimiLEDに対応して�
 
 ### ファイル説明
 - STL
-  - AtomNyan_Takao_V2_face.stl<br>AtomS3に被せる顔です。髭のオブジェクトが
+  - AtomNyan_Takao_V2_face.stl<br>AtomS3に被せる顔です。髭のオブジェクトが別で着色できます。
   - AtomNyan_Takao_V2_body.stl<br>身体です。髭のオブジェクトが別で着色できます。
   - AtomNyan_Takao_V2 foot_long.stl<br>PCのモニターにひっかけるための後ろ足です。
   - AtomNyan_Takao_V2_foot_triangle.stl<br>床置き用の足です。4つ印刷して使用します。肉球のオブジェクトが別で着色できます。
