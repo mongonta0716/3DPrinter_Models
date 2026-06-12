@@ -24,10 +24,10 @@ V1からの変更点は、washishiさんのAtom用のNecomimiLEDに対応して�
   - AtomNyan_Takao_V2_body.stl<br>身体です。髭のオブジェクトが別で着色できます。
   - AtomNyan_Takao_V2 foot_long.stl<br>PCのモニターにひっかけるための後ろ足です。
   - AtomNyan_Takao_V2_foot_triangle.stl<br>床置き用の足です。4つ印刷して使用します。肉球のオブジェクトが別で着色できます。
+  - AtomNyan_Takao_V2_5mmlongbody.stl<br>5mm長いBodyです。バッテリーベースのピンを折りたくない場合に使うアダプタ用です。https://yohe.booth.pm/items/7622455
 - rzdocx
   - AtomNyan_Takao_V2_face_body.rsdocx<br>コンポーネントが含まれています。face、body、foot_longの設計ファイルです。
   - AtomNyan_Takao_V2foot.rsdocx<br>foot_triangleのみです。足部分と肉球部分がコンポーネントで分かれています。
-  - AtomNyan_Takao_V2_5mmlongbody.stl<br>5mm長いBodyです。バッテリーベースのピンを折りたくない場合に使うアダプタ用です。https://yohe.booth.pm/items/7622455
 
 ### 更新履歴
 
